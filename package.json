@@ -1,0 +1,22 @@
+{
+  "name": "traininghsbc",
+  "version": "1.0.0",
+  "description": "HSBC training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "HSBC",
+    "training"
+  ],
+  "type": "module",
+  "author": "jaylen shen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "prime-number-check": "^1.0.1",
+    "random-words": "^2.0.1"
+  }
+}
